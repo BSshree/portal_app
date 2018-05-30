@@ -3,7 +3,7 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=127.0.0.1;dbname=clone', //rajencba_clonecontacts
+            'dsn' => 'mysql:host=127.0.0.1;dbname=portal', //rajencba_clonecontacts
             'username' => 'root',  //rajencba_clonec
             'password' => '', //7}6G&wefF7{[
             'charset' => 'utf8',
